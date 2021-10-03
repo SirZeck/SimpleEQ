@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<JUCERPROJECT id="eO4IPb" name="SimpleEQ" projectType="audioplug" useAppConfig="0"
+<JUCERPROJECT id="OOnpd4" name="SimpleEQ" projectType="audioplug" useAppConfig="0"
               addUsingNamespaceToJuceHeader="0" displaySplashScreen="1" jucerFormatVersion="1">
-  <MAINGROUP id="oxAABD" name="SimpleEQ">
-    <GROUP id="{28202682-C5CB-7F8A-0B1E-AB45168D36D7}" name="Source">
-      <FILE id="BtQnh0" name="PluginProcessor.cpp" compile="1" resource="0"
+  <MAINGROUP id="RURCzR" name="SimpleEQ">
+    <GROUP id="{3FBE0EE9-B2CD-5B68-B93B-354BA2F66700}" name="Source">
+      <FILE id="ivqCq6" name="PluginProcessor.cpp" compile="1" resource="0"
             file="Source/PluginProcessor.cpp"/>
-      <FILE id="CPKS1j" name="PluginProcessor.h" compile="0" resource="0"
+      <FILE id="cpoc8W" name="PluginProcessor.h" compile="0" resource="0"
             file="Source/PluginProcessor.h"/>
-      <FILE id="ud6ZJL" name="PluginEditor.cpp" compile="1" resource="0"
+      <FILE id="C6tzQO" name="PluginEditor.cpp" compile="1" resource="0"
             file="Source/PluginEditor.cpp"/>
-      <FILE id="gqw5Sx" name="PluginEditor.h" compile="0" resource="0" file="Source/PluginEditor.h"/>
+      <FILE id="XwXxjd" name="PluginEditor.h" compile="0" resource="0" file="Source/PluginEditor.h"/>
     </GROUP>
   </MAINGROUP>
   <JUCEOPTIONS JUCE_STRICT_REFCOUNTEDPOINTER="1" JUCE_VST3_CAN_REPLACE_VST2="0"/>
